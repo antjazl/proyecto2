@@ -1,0 +1,13 @@
+c:\users\lucho\documents\visual studio 2012\Projects\Practica11.1\ServiciosWCF\bin\ServiciosWCF.dll
+c:\users\lucho\documents\visual studio 2012\Projects\Practica11.1\ServiciosWCF\bin\ServiciosWCF.pdb
+c:\users\lucho\documents\visual studio 2012\Projects\Practica11.1\ServiciosWCF\bin\AccesoDatos.dll
+c:\users\lucho\documents\visual studio 2012\Projects\Practica11.1\ServiciosWCF\bin\Logica.dll
+c:\users\lucho\documents\visual studio 2012\Projects\Practica11.1\ServiciosWCF\bin\EntityFramework.dll
+c:\users\lucho\documents\visual studio 2012\Projects\Practica11.1\ServiciosWCF\bin\Datos.dll
+c:\users\lucho\documents\visual studio 2012\Projects\Practica11.1\ServiciosWCF\bin\AccesoDatos.pdb
+c:\users\lucho\documents\visual studio 2012\Projects\Practica11.1\ServiciosWCF\bin\Logica.pdb
+c:\users\lucho\documents\visual studio 2012\Projects\Practica11.1\ServiciosWCF\bin\EntityFramework.xml
+c:\users\lucho\documents\visual studio 2012\Projects\Practica11.1\ServiciosWCF\bin\Datos.pdb
+c:\users\lucho\documents\visual studio 2012\Projects\Practica11.1\ServiciosWCF\obj\Debug\ServiciosWCF.csprojResolveAssemblyReference.cache
+c:\users\lucho\documents\visual studio 2012\Projects\Practica11.1\ServiciosWCF\obj\Debug\ServiciosWCF.dll
+c:\users\lucho\documents\visual studio 2012\Projects\Practica11.1\ServiciosWCF\obj\Debug\ServiciosWCF.pdb

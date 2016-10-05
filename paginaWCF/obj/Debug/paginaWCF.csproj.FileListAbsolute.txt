@@ -1,0 +1,4 @@
+c:\users\lucho\documents\visual studio 2012\Projects\Practica11.1\paginaWCF\bin\paginaWCF.dll
+c:\users\lucho\documents\visual studio 2012\Projects\Practica11.1\paginaWCF\bin\paginaWCF.pdb
+c:\users\lucho\documents\visual studio 2012\Projects\Practica11.1\paginaWCF\obj\Debug\paginaWCF.dll
+c:\users\lucho\documents\visual studio 2012\Projects\Practica11.1\paginaWCF\obj\Debug\paginaWCF.pdb

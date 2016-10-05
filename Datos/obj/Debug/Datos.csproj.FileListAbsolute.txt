@@ -1,0 +1,9 @@
+c:\users\lucho\documents\visual studio 2012\Projects\Practica11.1\Datos\bin\Debug\Datos.dll
+c:\users\lucho\documents\visual studio 2012\Projects\Practica11.1\Datos\bin\Debug\Datos.pdb
+c:\users\lucho\documents\visual studio 2012\Projects\Practica11.1\Datos\bin\Debug\AccesoDatos.dll
+c:\users\lucho\documents\visual studio 2012\Projects\Practica11.1\Datos\bin\Debug\EntityFramework.dll
+c:\users\lucho\documents\visual studio 2012\Projects\Practica11.1\Datos\bin\Debug\AccesoDatos.pdb
+c:\users\lucho\documents\visual studio 2012\Projects\Practica11.1\Datos\bin\Debug\EntityFramework.xml
+c:\users\lucho\documents\visual studio 2012\Projects\Practica11.1\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+c:\users\lucho\documents\visual studio 2012\Projects\Practica11.1\Datos\obj\Debug\Datos.dll
+c:\users\lucho\documents\visual studio 2012\Projects\Practica11.1\Datos\obj\Debug\Datos.pdb
